@@ -1,0 +1,23 @@
+.nav-link:hover, .nav-link:focus {
+  color: var(--bs-white);
+}
+
+.btn:hover {
+  color: var(--bs-white) !important;
+  padding-top: 6px;
+  padding-left: 10px;
+  border-style: none;
+  border-top-style: none;
+  /*border-right-style: !important;*/
+  border-bottom-style: none;
+  /*border-left-style: !important;*/
+  background: var(--bs-btn-hover-border-color);
+  margin-left: 14px;
+  transform: scale(1.10);
+}
+
+.text-primary {
+  --bs-text-opacity: 1;
+  color: rgb(52,58,64)!important;
+}
+
