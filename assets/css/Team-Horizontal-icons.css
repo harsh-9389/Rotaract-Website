@@ -55,39 +55,3 @@
   border-radius: 50%;
 }
 
-.btn btn-primary d-block:hover {
-  color: var(--bs-white) !important;
-  padding: 6px 12px;
-  /*padding-top: 6px;*/
-  background: rgb(12,81,101)!important;
-  /*padding-left: !important;*/
-  margin: 0px;
-  margin-right: 0px;
-  margin-left: 0px!important;
-  border-style: none;
-  border-top-style: none;
-  border-right-style: !important;
-  border-bottom-style: none;
-  border-left-style: !important;
-  box-shadow: 2px 10px 16px #021b22;
-  transform: scale(1.10);
-}
-
-#send:hover {
-  background-color: #09333f!important;
-  margin-left: 0px;
-  box-shadow: 2px 10px 16px rgb(2,31,40);
-  filter: brightness(134%);
-  transform: scale(1.10);
-}
-
-.rounded-circle:hover {
-  box-shadow: 2px 10px 16px rgb(20,41,62);
-  transform: scale(1.10);
-}
-
-#insta:hover {
-  cursor: pointer;
-  transform: scale(1.30);
-}
-
